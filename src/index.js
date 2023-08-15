@@ -1,4 +1,4 @@
-import "./styles.css";
+import "src/style.css";
 
 let date = new Date();
 let days = [
